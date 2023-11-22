@@ -1,10 +1,19 @@
 {
-  "discordInviteLink": "https://discord.gg/kq39yhT4rX",
+  "discordInviteLink": "https://youtube.com/@sketchware_pro?si=cYyqrYA60k8KnvgR",
   "moddersteam": [
     {
       "modder_username": "New MJ",
       "modder_description": "Software Engineer",
       "modder_img": "https://lh3.googleusercontent.com/a/ACg8ocKqd_wvkKh6pLKDFJ731r1DfL8KkDJR7_MrABWeUPaKEO4=s288-c-no",
+      "isTitled": true,
+      "isMainModder": true,
+      "isActive": true,
+      "title": "Main modders"
+    },
+    {
+      "modder_username": "Jbk0",
+      "modder_description": "Main modder",
+      "modder_img": "https://avatars.githubusercontent.com/u/40118124",
       "isTitled": true,
       "isMainModder": true,
       "isActive": true,
